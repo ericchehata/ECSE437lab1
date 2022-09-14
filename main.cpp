@@ -1,4 +1,5 @@
 #Eric Chehata 260886217 Fadi Tawfik Beshay 260909246
+#eric.chehata@mail.mcgill.ca fadi.tawfikbeshay@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
